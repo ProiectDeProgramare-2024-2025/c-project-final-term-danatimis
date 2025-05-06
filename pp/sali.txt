@@ -1,0 +1,11 @@
+1 20 Sala Mare
+2 12 Sala Sedinta Etaj 1
+3 8 Sala Mica
+4 15 Sala Training
+5 10 Birou Echipa
+6 25 Sala VIP
+7 18 Sala Workshop
+8 6 Sala Tehnica
+9 30 Amfiteatru Principal
+10 100 VIP
+
